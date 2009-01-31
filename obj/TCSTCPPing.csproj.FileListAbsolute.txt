@@ -1,0 +1,8 @@
+E:\tangooricha\SharpDevelop Projects\TCSTCPPing\obj\Debug\ResolveAssemblyReference.cache
+E:\tangooricha\SharpDevelop Projects\TCSTCPPing\bin\Debug\TCSTCPPing.exe
+E:\tangooricha\SharpDevelop Projects\TCSTCPPing\bin\Debug\TCSTCPPing.pdb
+E:\tangooricha\SharpDevelop Projects\TCSTCPPing\obj\Debug\TCSTCPPing.exe
+E:\tangooricha\SharpDevelop Projects\TCSTCPPing\obj\Debug\TCSTCPPing.pdb
+E:\tangooricha\SharpDevelop Projects\TCSTCPPing\bin\Release\TCSTCPPing.exe
+E:\tangooricha\SharpDevelop Projects\TCSTCPPing\obj\Release\ResolveAssemblyReference.cache
+E:\tangooricha\SharpDevelop Projects\TCSTCPPing\obj\Release\TCSTCPPing.exe
