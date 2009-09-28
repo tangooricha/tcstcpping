@@ -35,8 +35,8 @@ namespace TCSTCPPing
 				Console.WriteLine("Argument -t and -c are mutually exclusive.");
 				Console.WriteLine("");
 				Console.WriteLine("");
-				Console.Write("Press any key to continue . . . ");
-				Console.ReadKey(true);
+				//Console.Write("Press any key to continue . . . ");
+				//Console.ReadKey(true);
 				return;
 			}
 			else
@@ -61,8 +61,8 @@ namespace TCSTCPPing
 				if(globeSetting.tSet==true&&globeSetting.cSet==true)
 				{
 					Console.WriteLine("Argument -t and -c are mutually exclusive.");
-					Console.Write("Press any key to continue . . . ");
-					Console.ReadKey(true);
+					//Console.Write("Press any key to continue . . . ");
+					//Console.ReadKey(true);
 					return;
 				}
 			}
@@ -120,14 +120,14 @@ namespace TCSTCPPing
 					}
 					else
 					{
-						Console.WriteLine("{0}	Request timeout!	{1}	{2}",j+1,e.ErrorCode,e.Message);
+						Console.WriteLine("{0}	Error Occur!	{1}	{2}",j+1,e.ErrorCode,e.Message);
 					}
 				}
 				j++;
 			}
 			
-			Console.Write("Press any key to continue . . . ");
-			Console.ReadKey(true);
+			//Console.Write("Press any key to continue . . . ");
+			//Console.ReadKey(true);
 		}
 	}
 	class _globeSetting
